@@ -3,7 +3,7 @@
 #include <algorithm>
 
 using namespace std;
-
+//this code is for finding the median of a stream of numbers
 int main() {
     cout<<"How many elements in an Array : ";
     int n;
